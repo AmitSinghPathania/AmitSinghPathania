@@ -17,7 +17,7 @@
 <a href="https://twitter.com/adorableami97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adorableami97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amit-singh-pathania-599420132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-singh-pathania-599420132" height="30" width="40" /></a>
 <a href="https://instagram.com/amit_singhpathania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit_singhpathania" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/travelerbinboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="travelerbinboy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@travelerbinboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="travelerbinboy" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitsinghpathania&show_icons=true&locale=en" alt="amitsinghpathania" /></p>
